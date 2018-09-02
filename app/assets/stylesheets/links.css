@@ -1,8 +1,12 @@
-a.error  {
-  color: red;
-  text: "Click To Hide Me"
+.error{
+  a{
+    color: red;
+    text: "Click To Hide Me"
+  }
 }
 
-body.cool-background {
-  background-color: grey;
+.cool-background {
+  body{
+    background-color: grey;
+  }
 }
