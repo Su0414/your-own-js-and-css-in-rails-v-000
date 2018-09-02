@@ -1,12 +1,7 @@
 .error{
-  a{
     color: red;
-    text: "Click To Hide Me"
-  }
 }
 
 .cool-background {
-  body{
     background-color: grey;
-  }
 }
