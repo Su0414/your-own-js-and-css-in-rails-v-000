@@ -1,8 +1,8 @@
-.error a {
+a.error  {
   color: red;
   text-decoration: none;
 }
 
-.cool-background body {
+body.cool-background {
   background-color: grey;
 }
