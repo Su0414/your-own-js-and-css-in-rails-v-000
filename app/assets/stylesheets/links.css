@@ -1,6 +1,6 @@
 a.error  {
   color: red;
-  text-decoration: none;
+  text: "Click To Hide Me"
 }
 
 body.cool-background {
